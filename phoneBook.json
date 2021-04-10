@@ -1,0 +1,12 @@
+{
+  "people":
+  [
+    {
+      "id": 0,
+      "forename": "Birdy",
+      "surname": "Fink",
+      "mail": "birdy@gmail.com",
+      "phone": "+484546 123 4564"
+    }
+  ]
+}
